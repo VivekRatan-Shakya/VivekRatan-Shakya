@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekratan-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="vivekratan-shakya" /> </p>
-<img align="right" alt="coding" width="200" src="https://www.dezital.com/wp-content/uploads/2022/06/custom-dev.png">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekratan-shakya" alt="vivekratan-shakya" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekratan-shakya" alt="vivekratan-shakya" /></a> </p>
+<img align="right" alt="coding" width="200" src="https://www.dezital.com/wp-content/uploads/2022/06/custom-dev.png">
 
 - 🌱 I’m currently learning **StudDSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |**
 
