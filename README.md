@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm VivekRatan_Shakya</h1>
+<h1 align="center"> 😊Hi 👋, I'm VivekRatan_Shakya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekratan-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="vivekratan-shakya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekratan-shakya" alt="vivekratan-shakya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **StudDSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/vivekratan_shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekratan_shakya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivekratan shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekratan shakya" height="30" width="40" /></a>
 <a href="https://instagram.com/official__cyberexpert_person__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official__cyberexpert_person__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vi-rce_song_010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vi-rce_song_010" height="30" width="40" /></a>
