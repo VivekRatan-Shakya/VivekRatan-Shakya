@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vo_professional" target="blank"><img src="https://img.shields.io/twitter/follow/@vo_professional?logo=twitter&style=for-the-badge" alt="@vo_professional" /></a> </p>
 
-- 🌱 I’m currently learning **StudDSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |**
+- 🌱 I’m currently learning **Studying| DSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
