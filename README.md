@@ -1,8 +1,6 @@
 <h1 align="center">😊Hi👋, I'm VivekRatan_Shakya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/113957044/191188928-6118e227-dafa-40af-a045-dfb913f74edf.png)
 
-">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekratan-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="vivekratan-shakya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekratan-shakya" alt="vivekratan-shakya" /></a> </p>
