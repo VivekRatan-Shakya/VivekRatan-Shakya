@@ -1,7 +1,7 @@
 ![logo](https://github.com/VivekRatan-Shakya/VivekRatan-Shakya/blob/main/STACK-DEV-GRAPH-2-0b343532-7342-4dca-938e-efe6af2ebc32.jpg)
 <h1 align="center">😊Hi👋, I'm VivekRatan_Shakya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="300" src="https://www.dezital.com/wp-content/uploads/2022/06/custom-dev.png">
+<img align="right" alt="coding" width="290" src="https://www.dezital.com/wp-content/uploads/2022/06/custom-dev.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekratan-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="vivekratan-shakya" /> </p>
 
