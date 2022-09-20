@@ -1,6 +1,6 @@
 <h1 align="center">😊Hi👋, I'm VivekRatan_Shakya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/113957044/191188704-fb61f7c6-6a2c-4ade-a97d-1d124bfb0c5f.png)
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/113957044/191188704-fb61f7c6-6a2c-4ade-a97d-1d124bfb0c5f.gif
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekratan-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="vivekratan-shakya" /> </p>
 
