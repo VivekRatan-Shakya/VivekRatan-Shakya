@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekratan-shakya" alt="vivekratan-shakya" /></a> </p>
 <img align="right" alt="coding" width="200" src="https://www.dezital.com/wp-content/uploads/2022/06/custom-dev.png">
 
-- 🌱 I’m currently learning **StudDSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |Computer Netwoking| CyberSecurity | SecurityImplementation | BatchScripting |
+- 🌱 I’m currently learning | DSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |Computer Netwoking| CyberSecurity | SecurityImplementation | BatchScripting |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
