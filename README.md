@@ -1,34 +1,47 @@
+                         
+<!---------------------- Heading & Logo  Section ------------------------->
+                         
+                         
+                       
 ![logo](https://github.com/VivekRatan-Shakya/VivekRatan-Shakya/blob/main/STACK-DEV-GRAPH-2-0b343532-7342-4dca-938e-efe6af2ebc32.jpg)
-<h1 align="center">😊Hi👋, I'm VivekRatan_Shakya</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+ <h1 align="center">
+  
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20">
+  Hi👋😊, I'm VivekRatan_Shakya
+<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="15">
+</h1>
+ <h3 align="center">A passionate Software Engineer from India</h3>
+
+
+
+ <!-------------------------- Profile View Section ------------------------------->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekratan-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="vivekratan-shakya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekratan-shakya" alt="vivekratan-shakya" /></a> </p>
 <img align="right" alt="coding" width="200" src="https://www.dezital.com/wp-content/uploads/2022/06/custom-dev.png">
 
-- 🌱 I’m currently learning | DSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |Computer Netwoking| LinuxAdministrator | SecurityImplementation | BatchScripting |
 
+
+
+ <!--------------------------------- About Section -------------------------------->
+ 
+
+
+-🌱 I’m currently learning | DSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |Computer Netwoking| LinuxAdministrator | SecurityImplementation | BatchScripting |
+  
+  
+             
+ <!------------------------- Social Media Links Section -------------------------->
+                
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vo_professional" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vo_professional" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/VivekRatan Shakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VivekRatan Shakya" height="30" width="40" /></a>
 <a href="https://instagram.com/official__cyberexpert_person__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official__cyberexpert_person__" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
