@@ -28,7 +28,7 @@
  
 
 
--🌱 I’m currently learning | DSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |Computer Netwoking| LinuxAdministrator | SecurityImplementation | BatchScripting |
+-🌱 DSA | C++ | & | C | Java | JavaScript | PHP | Linux | MYSQL | HTML5 | CSS 3| React.JS | Mongo.DB | Node.JS | Express.JS |Computer Netwoking| LinuxAdministrator | SecurityImplementation | BatchScripting |
   
   
              
